@@ -1,0 +1,7 @@
+// this is a comment
+var ident = "test";
+if (ident === "testString") {
+  (( )){} // grouping stuff
+} else {
+    !*+-/=<> <= == // operators
+}
